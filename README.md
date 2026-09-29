@@ -72,7 +72,7 @@ Aplikasi ini dijadikan sebagai **Software Under Test (SUT)** dalam rangka penguj
 1. Pastikan Flutter SDK sudah terpasang di perangkat Anda.
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/Fajriahmadsiregar465/taskflow.git
+   git clone https://github.com/ryuucrowne2025-jpg/taskflow.git
    ```
 3. Masuk ke direktori proyek:
    ```bash
